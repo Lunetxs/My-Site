@@ -12,3 +12,43 @@ body
     left: 50%;
     transform: translate(-50%,-50%);
 }
+
+
+#Name 
+{
+    position: absolute;
+    top: 9%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: xx-large;
+    color: white;
+
+    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.5);
+}
+#NameBox
+{
+    position: absolute;
+    top: 9%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+    width: 550px;
+    height: 45px;
+
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    border-radius: 15px;
+}
+
+#Video
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 15px 15px 15px black;
+    border: 5px solid rgba(255, 255, 255, .25);
+    border-radius: 15px;
+   
+
+}
+
